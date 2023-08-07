@@ -12,3 +12,4 @@ let arr = [1,2,3,4,5,6,7,8,9,10]
 let arrStr = arr.map({ String($0) })
 
 
+let newVar = "Shoaib"
