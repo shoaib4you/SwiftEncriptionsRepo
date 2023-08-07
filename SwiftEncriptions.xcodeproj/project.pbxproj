@@ -16,6 +16,8 @@
 		EC6E7C4D2A80BEF600635A46 /* SwiftEncriptionsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC6E7C4C2A80BEF600635A46 /* SwiftEncriptionsTests.swift */; };
 		EC6E7C572A80BEF600635A46 /* SwiftEncriptionsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC6E7C562A80BEF600635A46 /* SwiftEncriptionsUITests.swift */; };
 		EC6E7C592A80BEF600635A46 /* SwiftEncriptionsUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC6E7C582A80BEF600635A46 /* SwiftEncriptionsUITestsLaunchTests.swift */; };
+		EC6E7C662A80BF1900635A46 /* File1.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC6E7C652A80BF1900635A46 /* File1.swift */; };
+		EC6E7C682A80BF2500635A46 /* File2.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC6E7C672A80BF2500635A46 /* File2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		EC6E7C522A80BEF600635A46 /* SwiftEncriptionsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftEncriptionsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EC6E7C562A80BEF600635A46 /* SwiftEncriptionsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftEncriptionsUITests.swift; sourceTree = "<group>"; };
 		EC6E7C582A80BEF600635A46 /* SwiftEncriptionsUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftEncriptionsUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		EC6E7C652A80BF1900635A46 /* File1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = File1.swift; sourceTree = "<group>"; };
+		EC6E7C672A80BF2500635A46 /* File2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = File2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +110,8 @@
 				EC6E7C3E2A80BEF600635A46 /* Assets.xcassets */,
 				EC6E7C402A80BEF600635A46 /* LaunchScreen.storyboard */,
 				EC6E7C432A80BEF600635A46 /* Info.plist */,
+				EC6E7C652A80BF1900635A46 /* File1.swift */,
+				EC6E7C672A80BF2500635A46 /* File2.swift */,
 			);
 			path = SwiftEncriptions;
 			sourceTree = "<group>";
@@ -261,6 +267,8 @@
 				EC6E7C3A2A80BEF400635A46 /* ViewController.swift in Sources */,
 				EC6E7C362A80BEF400635A46 /* AppDelegate.swift in Sources */,
 				EC6E7C382A80BEF400635A46 /* SceneDelegate.swift in Sources */,
+				EC6E7C662A80BF1900635A46 /* File1.swift in Sources */,
+				EC6E7C682A80BF2500635A46 /* File2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
